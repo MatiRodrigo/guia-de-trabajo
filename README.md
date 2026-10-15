@@ -26,7 +26,7 @@ git config --global user.email "tu_email@ejemplo.com"
 📦 Para obtener una copia del proyecto en tu computadora, ejecutá:
 
 ```bash
-git clone https://github.com/MatiRodrigo/fabrica.git
+git clone https://github.com/MatiRodrigo/guia-de-trabajo.git
 ```
 
 📁 Esto descargará el repositorio y creará una carpeta llamada `fabrica` en el directorio donde estés trabajando.

@@ -1,4 +1,4 @@
-# 🚀💻 Guía de Git y GitHub para el Ciber de las Bermudas 🏴‍☠️
+# 🚀💻 Guía de Git y GitHub para el Cyber de las Bermudas 🏴‍☠️
 
 > 🎯 **¡Bienvenidos al centro de operaciones del equipo!**
 >
